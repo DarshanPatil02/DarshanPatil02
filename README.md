@@ -16,7 +16,7 @@
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge."
 - ⚡ Fun fact: I love attending meetups for learning and conferences for networking.
 - 📫 You can reach me at: darshanpatil1231@outlook.com
-- 📝 [Resume]([https://github.com/DarshanPatil02/Resume/blob/2c4d6434429db24892b35a90d5ed75dab68e7f04/Darshan_Patil_resume.pdf](https://github.com/DarshanPatil02/Resume/blob/main/Darshan_Patil_resume.pdf))
+- 📝 [Resume](https://github.com/DarshanPatil02/Resume/blob/main/Darshan_Patil_resume.pdf)
 
 ## 💻 My Technical Skills
 
