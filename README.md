@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm currently an undergraduate pursuing my B.Tech in Mechanical Engineering.</h3>
 
-## 🙋‍♂️ About Me 
+## 🙋‍♂️ About Me
 
 - 💻 Currently working on Data Science projects at Lean Quality Solutions PVT. LTD.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
