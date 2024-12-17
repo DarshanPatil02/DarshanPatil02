@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darshan Patil </h1>
 
-<h3 align="center">I'm currently an undergraduate pursuing my B.Tech in Mechanical Engineering.</h3>
+<h3 align="center">I'm a currently graduated B.Tech Mechanical Engineering with strong analytical knowledge and BI Skills.</h3>
 
 ## 🙋‍♂️ About Me 
 
-- 💻 Currently working on Data Science projects at Lean Quality Solutions PVT. LTD.
+- 💻 Currently working on Data Analysis projects at Cravita Technologies India PVT. LTD.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Brainstorm with me over tech, algorithms, career, and music.
 - ✨ Excited about exploring new possibilities in **DBMS & MACHINE LEARNING✌**.
@@ -16,7 +16,7 @@
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge."
 - ⚡ Fun fact: I love attending meetups for learning and conferences for networking.
 - 📫 You can reach me at: darshanpatil1231@outlook.com
-- 📝 [Resume](https://github.com/DarshanPatil02/Resume/blob/main/Darshan_Patil_resume.pdf)
+- 📝 [Resume](https://darshanpatil02.github.io/Darshan-Patil-Portfolio/Darshan_Patil_Resume.pdf)
 
 ## 💻 My Technical Skills
 
