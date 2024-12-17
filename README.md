@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darshan Patil </h1>
 
-<h3 align="center">I'm a currently graduated B.Tech Mechanical Engineering with strong analytical knowledge and BI Skills.</h3>
+<h3 align="center">I'm a currently graduated B.Tech Engineer with strong analytical knowledge and BI Skills.</h3>
 
 ## 🙋‍♂️ About Me 
 
